@@ -1,0 +1,111 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+
+body{
+	margin:0px;
+	font:Arial, "Helvetica Neue",Helvetica, Sans-serif;
+	font-size: 17px;
+	line-height: 1.6em;
+	color: #80d4ff;
+
+}
+
+header{
+	margin-top:-20px;
+}
+
+#links{
+	display: flex;
+}
+
+#showcase{
+	background-image: url(../img/sea.jpeg);
+	background-size:cover;
+	background-position: center;
+	text-align: center;
+	height: 105vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding:0 25px;
+}
+
+#showcase h1{
+	font-size: 35px;
+	padding-bottom: 25px;
+	line-height: 1.2;
+	color:white;
+}
+
+#showcase_tag{
+	font-size: 1.1em;
+	color: white;
+}
+
+#showcase .button{
+	margin: 20px 10px;
+	color: white;
+	text-decoration: none;
+	font-size: 1.5em;
+	padding:5px;
+	border: #fff 2px solid;
+	border-radius: 10px;
+}
+
+#showcase .button:hover{
+	background-color: #0077b3;
+	color: #fff;
+}
+
+#section-a{
+	background-color: white;
+	color: #0077b3;
+	padding:20px;
+	text-align:center;
+}
+
+#elephants, #story_header{
+	text-decoration: underline;
+	padding-bottom: 20px;
+}
+
+#section-c{
+	background-color: white;
+	color: #0077b3;
+	text-align:center;
+}
+
+#section-b{
+	background-color: #0077b3;
+	color: white;
+	text-align: center;
+	padding:25px;
+	padding-bottom: 40px;
+}
+
+#section-c{
+	display: flex;
+	padding: 20px;
+}
+
+
+#section-c .div-2{
+	margin-top: -20px;
+	padding-bottom: 40px;
+	background-color: #0077b3;
+	color:white;
+
+}
+
+footer{
+	color:#0077b3;
+	font-size: 1.2em;
+	background-color: #fff;
+	margin-top: -20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+}
