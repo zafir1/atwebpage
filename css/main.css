@@ -97,6 +97,9 @@ header{
 .text-align-center > h1{
 	text-decoration: underline;
 }
+#text-align-center{
+	text-decoration: underline;
+}
 #lang-image{
 	height: 80px;
 	widows: auto;
@@ -110,8 +113,25 @@ header{
 }
 
 
+.time_title{
+	color: #808080;
+	font-size: 0.98em;
+	text-align: justify;
+}
 
+/* .btech{
+	background: #b3b3b3;
+	color: white;
+} */
 
+.projects{
+	background: #337ab7;
+	color: white;
+}
+
+#under-line{
+	text-decoration: underline;
+}
 
 
 
