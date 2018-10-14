@@ -139,7 +139,18 @@ header{
 	font-size: 1.2em;
 	
 }
+#web_link{
+	color: #808080;
+	font-size: 0.98em;
+	text-align: justify;
+}
 
+
+.project_description_list{
+	color: #808080;
+	line-height: 1.90em;
+	text-align: justify;
+}
 
 
 
